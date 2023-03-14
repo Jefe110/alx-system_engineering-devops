@@ -1,3 +1,2 @@
-[200~
 #!/bin/bash
-echo $PATH | xargs -n1 | sort
+echo xargs -n1
