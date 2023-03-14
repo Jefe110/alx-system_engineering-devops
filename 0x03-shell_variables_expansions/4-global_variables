@@ -1,2 +1,2 @@
 #!/bin/bash
-echo xargs -n1
+printenv
